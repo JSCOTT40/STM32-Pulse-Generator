@@ -7,7 +7,7 @@ This document describes the design of an STM32F4-based four-channel pulse genera
 
 The system is designed for applications where multiple pulse channels must be generated with configurable delay, pulse width, and phase timing.
 
-<img width="1080" height="1876" alt="image" src="https://github.com/user-attachments/assets/df9872d8-6961-40d9-adc2-ce1fbad781e8" />
+<img width="1080" height="900" alt="image" src="https://github.com/user-attachments/assets/df9872d8-6961-40d9-adc2-ce1fbad781e8" />
 
 ---
 
