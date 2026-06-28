@@ -1,10 +1,13 @@
 # STM32F4 Four-Channel Pulse Generator — Design Document
 
+
 ## 1. Purpose
 
 This document describes the design of an STM32F4-based four-channel pulse generator. The firmware generates precisely timed output pulses using hardware timers, supports UART-based configuration, and can operate using either internal software triggering or an external hardware trigger.
 
 The system is designed for applications where multiple pulse channels must be generated with configurable delay, pulse width, and phase timing.
+
+<img width="1080" height="1876" alt="image" src="https://github.com/user-attachments/assets/df9872d8-6961-40d9-adc2-ce1fbad781e8" />
 
 ---
 
