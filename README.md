@@ -408,22 +408,7 @@ Current limitations include:
 
 ---
 
-## 15. Possible Improvements
-
-Future improvements could include:
-
-* A stricter command parser.
-* Non-blocking UART transmit using DMA or interrupt-based TX.
-* Moving more EXTI work out of the interrupt handler.
-* Adding command validation and error codes.
-* Supporting configurable timer resolution.
-* Adding EEPROM or flash storage for saved pulse configurations.
-* Adding a checksum or framed protocol for more reliable communication.
-* Adding a formal front-end command schema.
-
----
-
-## 16. Summary
+## 15. Summary
 
 This firmware implements a four-channel STM32F4 pulse generator using hardware timers, UART control, and optional external triggering.
 
